@@ -13,7 +13,7 @@ let isPaused = false;
 
 startBtn.addEventListener("click", startTime);
 pauseBtn.addEventListener("click", pauseTimer);
-resumetBtn.addEventListener("click", resumeTimer);
+resumeBtn.addEventListener("click", resumeTimer);
 resetBtn.addEventListener("click", resetTimer);
 
 
